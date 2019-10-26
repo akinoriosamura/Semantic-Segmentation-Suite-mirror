@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+flake8 = "*"
+mypy = "*"
+pycodestyle = "*"
+
+[packages]
+numpy = "*"
+opencv-python = "*"
+pillow = "*"
+scikit-learn = "*"
+scipy = "==1.1.0"
+tensorflow = "==1.14"
+gast = "==0.2.2"
+matplotlib = "*"
+
+[requires]
+python_version = "3.6"
