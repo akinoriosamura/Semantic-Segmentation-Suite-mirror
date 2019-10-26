@@ -1,0 +1,7 @@
+CamVid/class_dict.csv filter=lfs diff=lfs merge=lfs -text
+CamVid/test filter=lfs diff=lfs merge=lfs -text
+CamVid/test_labels filter=lfs diff=lfs merge=lfs -text
+CamVid/train filter=lfs diff=lfs merge=lfs -text
+CamVid/train_labels filter=lfs diff=lfs merge=lfs -text
+CamVid/val filter=lfs diff=lfs merge=lfs -text
+CamVid/val_labels filter=lfs diff=lfs merge=lfs -text
