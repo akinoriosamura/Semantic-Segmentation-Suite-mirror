@@ -14,7 +14,7 @@ opencv-python = "*"
 pillow = "*"
 scikit-learn = "*"
 scipy = "==1.1.0"
-tensorflow = "==1.14"
+tensorflow = "==1.15.4"
 gast = "==0.2.2"
 matplotlib = "*"
 
